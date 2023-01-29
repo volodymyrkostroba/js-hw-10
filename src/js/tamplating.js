@@ -32,3 +32,4 @@ menu.forEach(e=>{
 
   ulRef.insertAdjacentHTML('afterbegin',item)
 })
+
